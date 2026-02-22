@@ -1,6 +1,6 @@
 name = "PROPOSAL_jll"
 uuid = "a7736f47-6014-525c-ac95-fe8419cd7fa6"
-version = "7.6.2+0"
+version = "7.6.2+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

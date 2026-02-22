@@ -1,102 +1,102 @@
 [[PROPOSAL]]
 arch = "aarch64"
-git-tree-sha1 = "c71c84899783e657bc1cbbc185b9f0c62e5bb397"
+git-tree-sha1 = "4f1c2e3d5a963de2d0f3d655c14935e5f3295960"
 os = "macos"
 
     [[PROPOSAL.download]]
-    sha256 = "f1bfa18ac1b555a30605546f0953e38d1a4e73792e739f6991f193da8604ca6b"
-    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+0/PROPOSAL.v7.6.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "c77a9e50c2a8f500397d692593490787318b8499ec098e3c090277bd228a7080"
+    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+1/PROPOSAL.v7.6.2.aarch64-apple-darwin.tar.gz"
 [[PROPOSAL]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cd9c389f1d530bcc98f7d00a4341dfc528054057"
+git-tree-sha1 = "c842691d5bb74747ae9cc7bdb5d0d9232976a79d"
 libc = "glibc"
 os = "linux"
 
     [[PROPOSAL.download]]
-    sha256 = "055aee801465419c3113728b8700b9a56a3ce42ec38b6528fe3b82d2a5b2c0fa"
-    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+0/PROPOSAL.v7.6.2.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "c87c84fe79d23c912475cc347242ffc17ad8f113184dad46194cad1e71c1bf74"
+    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+1/PROPOSAL.v7.6.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[PROPOSAL]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8d34e273b805cef057649703a473194b950a8f31"
+git-tree-sha1 = "512c9333476e343162f59841dd877899a32acc3a"
 libc = "musl"
 os = "linux"
 
     [[PROPOSAL.download]]
-    sha256 = "e51a6a09909ed58f0c473b8145ed76b7e2c523b81a62954a451094980dc4e791"
-    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+0/PROPOSAL.v7.6.2.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "d16ba0a27ac8ec91ca47def7c87ab34d0cb9b786260293b1d2c2451cc0cae44e"
+    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+1/PROPOSAL.v7.6.2.aarch64-linux-musl-cxx11.tar.gz"
 [[PROPOSAL]]
 arch = "aarch64"
-git-tree-sha1 = "7d4971de92ecd419ca9553491c821c7e6ece2f70"
+git-tree-sha1 = "aa5b2f97fc0dd4898071c6298a16d229a88fdfbe"
 os = "freebsd"
 
     [[PROPOSAL.download]]
-    sha256 = "3bdee2c519714e84d74b4492f846731aaba8be3e8eaba11d161f3f91637a6b46"
-    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+0/PROPOSAL.v7.6.2.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "85926170af44f93b83022767cebd46310dc843934bf75a3ee8b6110ead3283a2"
+    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+1/PROPOSAL.v7.6.2.aarch64-unknown-freebsd.tar.gz"
 [[PROPOSAL]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b0c5fde7cfe0fde2915fdbfb40c9bf71cfe84c39"
+git-tree-sha1 = "3eedb3eef74f236df937ec2ad468e662204786c2"
 libc = "glibc"
 os = "linux"
 
     [[PROPOSAL.download]]
-    sha256 = "205a4a3c2db810b98d20a09f8438fcbc4a58b13c284ca9036be6d564c1615440"
-    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+0/PROPOSAL.v7.6.2.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "10b464af970805c38afcb40809b62225aa71dc31a6133144b18d3c934c79eb68"
+    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+1/PROPOSAL.v7.6.2.i686-linux-gnu-cxx11.tar.gz"
 [[PROPOSAL]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "699bfec96f9a6156b4b39ea10b97468e1f986c70"
+git-tree-sha1 = "7d6b00264194d6e512dc2cd89a5835900a1f2745"
 libc = "musl"
 os = "linux"
 
     [[PROPOSAL.download]]
-    sha256 = "5f64c068312f82b42a1f0b99e590a6b798d630881ed7d7a46fb1d1a15059b719"
-    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+0/PROPOSAL.v7.6.2.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "8c387c4cb6a9f159caed6a9a3e6a46f03e4e5d4ca9b61e2438ed20ecf65fd436"
+    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+1/PROPOSAL.v7.6.2.i686-linux-musl-cxx11.tar.gz"
 [[PROPOSAL]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c75c88748ebb043d430c5d9e9e268d87494ed05e"
+git-tree-sha1 = "faf42fdf560c53782e3b9df2b69c1ea30b711dd0"
 libc = "glibc"
 os = "linux"
 
     [[PROPOSAL.download]]
-    sha256 = "80aa1ff042c9c5aef3a201d564befc804c6541a03b7e8ad3a30097fb07d32b05"
-    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+0/PROPOSAL.v7.6.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "6cedf56967f244b33f1ce61528aac62d41a4cd2a7ec41208ea956e563cb8b90c"
+    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+1/PROPOSAL.v7.6.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[PROPOSAL]]
 arch = "x86_64"
-git-tree-sha1 = "3d86774ecd929d5eb8005284ce0957016a79dac8"
+git-tree-sha1 = "565cf1f309119c4fe1a55797cb3ab396bf3a4111"
 os = "macos"
 
     [[PROPOSAL.download]]
-    sha256 = "8892bfe11ba6eff9b57362d80b3a92373a9bcd5a2b46d5004916e3124ecebafc"
-    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+0/PROPOSAL.v7.6.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "edea2fd207cf2530bdb62dbd93444ac228bfdc1064515a7c180159c6393d26a0"
+    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+1/PROPOSAL.v7.6.2.x86_64-apple-darwin.tar.gz"
 [[PROPOSAL]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f2482369fe2f782f02c601e462cc16535cf8fd9b"
+git-tree-sha1 = "d95e38716e19c092c040d90beb62a722e6a83740"
 libc = "glibc"
 os = "linux"
 
     [[PROPOSAL.download]]
-    sha256 = "799c27ae5da3a716ed8b7cb8f9d5cec3bfdc5621cfe714cc1b5eb87ef0d8ba41"
-    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+0/PROPOSAL.v7.6.2.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "25aedd4a9acfa9be1f9eba9988cb95829409cb47d0af60c84e43bbaf28051980"
+    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+1/PROPOSAL.v7.6.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[PROPOSAL]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ccafab8e9a74f9bca6df95ee6a9c32ad08ba6404"
+git-tree-sha1 = "ce5f0a82a242cd75c0303f45029034f9337769e5"
 libc = "musl"
 os = "linux"
 
     [[PROPOSAL.download]]
-    sha256 = "67a024e814a224cbf901d2a11e5142a9c0015bfc870e16e4cc4beaa4a6e81e08"
-    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+0/PROPOSAL.v7.6.2.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "a9c93d4ed3fe0ce3d8254274ffe10d3caad50d719616e264b1949374f2b3b5bd"
+    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+1/PROPOSAL.v7.6.2.x86_64-linux-musl-cxx11.tar.gz"
 [[PROPOSAL]]
 arch = "x86_64"
-git-tree-sha1 = "f1ae1eee5f8e85ce5d938c30374c0ab8854fae37"
+git-tree-sha1 = "9ea251d2a6b2f2ebaef030fcf80ae3971a4322b3"
 os = "freebsd"
 
     [[PROPOSAL.download]]
-    sha256 = "bf14e43f3370a6f66879d5e9476c752af2343459c67314a93d6f62690d33a91f"
-    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+0/PROPOSAL.v7.6.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "d7e4f66a9444b2ad33197aa33ef3c8c884f86ccc8da91fb3289e902bc8949738"
+    url = "https://github.com/JuliaBinaryWrappers/PROPOSAL_jll.jl/releases/download/PROPOSAL-v7.6.2+1/PROPOSAL.v7.6.2.x86_64-unknown-freebsd.tar.gz"
